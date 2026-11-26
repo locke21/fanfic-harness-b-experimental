@@ -1,0 +1,17 @@
+{
+  "release": "FH-B-EXP-1.0",
+  "guide": "FH-B-EXP-1.0.txt",
+  "bytes": 41210,
+  "sha256": "4252077795e67a07bb8a3952e48f853706ed0492f95125c4ad6faeccab5ce247",
+  "sections": [
+    "OPERATIONS",
+    "V5",
+    "B",
+    "PLATFORM",
+    "RECOVERY"
+  ],
+  "frozen_sources": {
+    "A_original_v5.md": "fbd5098bc8feb533f2ed354a016ee33cafe1a8e596e3c9f7abdd0f389368da93",
+    "B.md": "0884f9fa070ea43d074beb2cab88680428b5f72b22217463142dcd5380ab49d8"
+  }
+}
